@@ -11,3 +11,4 @@ Features I will be adding:
 - Tribal Councils
 - Food Scavenge Success or Failure
 - Injuries / Medical Evacs
+- Search for an immunity idol on the island
