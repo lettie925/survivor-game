@@ -1,18 +1,13 @@
-## Getting Started
+## As a huge fan of the show Survivor I decided it would be fun to create a game based on the show. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a decision making game that I will continue to improve and change as I get better with coding.
 
-## Folder Structure
+Features currently in the game:
+- Ability to create a survivor and get sorted into a tribe
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Features I will be adding: 
+- The ability to be able to win or lose Reward and Immunity challenges
+- Join alliances
+- Tribal Councils
+- Food Scavenge Success or Failure
+- Injuries / Medical Evacs
